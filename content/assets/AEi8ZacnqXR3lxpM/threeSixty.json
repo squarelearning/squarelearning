@@ -1,0 +1,63 @@
+{
+  "version": "3.68.28887.0",
+  "course_id": "67RO4484xqb",
+  "title": "Jack and JayZ",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Jack & JayZ"
+    },
+    {
+      "title": "Build a Fireside Chat"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6HZvaSBGIwp",
+      "title": "audience",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ZvAqnFiMmh",
+      "title": "Select Audience Concerns",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5n3xBZZ1VQU",
+      "title": "Untitled Slide",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5xbeRL3ka59",
+      "title": "Fireside Chat",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6EzxbUuOCFe",
+      "title": "Animation",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6GVzmA3QRzN",
+      "title": "Untitled Slide",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6UTJcYCpYvq",
+      "title": "Two-Person Scenario",
+      "scene_index": "3.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

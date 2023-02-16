@@ -1,0 +1,112 @@
+{
+  "version": "3.68.28887.0",
+  "course_id": "6brXbaEBHxM",
+  "title": "Rise Scenario Style for Storyline",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Fireside Chat Challenge"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6M8s4vu2wP8",
+      "title": "Fireside Chat Challenge",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "684ChEAwIGc",
+      "title": "Decision 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5w4pouEXBsn",
+      "title": "Questions First - Try Again",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5emgPquVfYs",
+      "title": "Wing It",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5vgS9F0YxwS",
+      "title": "No Moderator",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6h5JvHqyz7Z",
+      "title": "Chat Tech Issue",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5c5Q63jz2GO",
+      "title": "Chat w Moderator",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6YOEHyAwDIl",
+      "title": "Chat w Moderator",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6MHjrNXVlNN",
+      "title": "Chat Revised Questions",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6TxCXFvOgGb",
+      "title": "Happy Path",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5rh7Sxnt8Qx",
+      "title": "Text Path",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6LwwiAfJ6Je",
+      "title": "Decision 1",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6ODtLwHTZX7",
+      "title": "Kick Off Call",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6pEjqX6Nl5U",
+      "title": "Questions/Themes",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "5h6lskkfekF",
+      "title": "Questions/Themes",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5aKsWqWrmH5",
+      "title": "Untitled Slide",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6HvscivBNok",
+      "title": "Complete Actiity",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "6CqEk0AvZyQ",
+      "title": "Complete Actiity",
+      "scene_index": "1.18"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
